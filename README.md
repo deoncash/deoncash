@@ -4,7 +4,7 @@
 |--------------------------|--------------------------------------------|
 | Ticker                   | DEON                                       |
 | Supply                   | 40.000.000                                 |
-| Algo                     | TRON TRC10 TOKEN                           |
+| Algo                     | BEP-20                          |
 | Pre-mine                 | 40.000.000                                 |
 | Token ID                 | 0x5f265e204f38a2495348ef41bbaf26b750778656 |
 | Contract Explorer        | <a href="https://bscscan.com/token/0x5f265e204f38a2495348ef41bbaf26b750778656" target="_blank" style="color: blue;"> View</a>
